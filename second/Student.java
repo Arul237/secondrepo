@@ -2,7 +2,7 @@ package com.onesoft.second;
 
 public class Student {
 String name;
-int rollnumber;
+private int rollnumber;
 int tamilmark;
 int maths;
 int english;
